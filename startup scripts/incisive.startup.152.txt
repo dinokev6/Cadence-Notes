@@ -1,0 +1,5 @@
+setenv CDS_BASE_DIR /opt/local/cadence
+setenv CDS_LIC_DIR ${CDS_BASE_DIR}/etc
+setenv CDS_LIC_FILE ${CDS_LIC_DIR}/license.dat
+
+setenv PATH ${PATH}:/opt/local/cadence/INCISIVE152/tools/bin/64bit:/opt/local/cadence/INCISIVE152/tools/bin
