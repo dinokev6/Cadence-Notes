@@ -2,4 +2,4 @@ setenv CDS_BASE_DIR /opt/local/cadence
 setenv CDS_LIC_DIR ${CDS_BASE_DIR}/etc
 setenv CDS_LIC_FILE ${CDS_LIC_DIR}/license.dat
 
-setenv PATH ${PATH}:/opt/local/cadence/GENUS181/tools/bin
+setenv PATH ${PATH}:/opt/local/cadence/GENUS181/tools.lnx86/bin/64bit:/opt/local/cadence/GENUS181/tools.lnx86/bin
